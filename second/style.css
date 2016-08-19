@@ -1,0 +1,41 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #50e3c2;
+  margin: 0;
+  height: 100vh;
+}
+
+.left {
+  background-color: #498edf;
+  width: 33.3%;
+  min-height: 100vh;
+  margin: 0 auto;
+  float: left;
+}
+
+.rightTopAndCorner {
+  width: 33.3%;
+  float: right;
+}
+
+.right {
+  background-color: #b8e986;
+  height: 80vh;
+  margin: 0 auto;
+
+}
+
+.bottomCorner {
+  background-color: #d0021b;
+  height: 20vh;
+  margin: 0 auto;
+  color: white;
+  text-align: center;
+  font-size: 20px;
+  font-family: sans-serif;
+  /*padding-top: 60px;
+  padding-bottom: 60px;*/
+}

@@ -1,0 +1,53 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  margin: 0;
+}
+
+.header {
+  background-color: grey;
+  height: 10vh;
+  padding: 15px;
+
+}
+
+.textParagraph {
+  font-family: sans-serif;
+  padding-left: 30px;
+  color: gray;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 30px;
+  height: 25vh;
+}
+
+.blueBox, body {
+  background-color: #498edf;
+  padding: 24px;
+  height: 30px;
+  width: 30px;
+}
+
+.blue {
+  background-color: #498edf;
+  height: 15vh;
+
+}
+
+.green {
+  background-color: #50e3c2;
+  height: 15vh;
+}
+
+.puke {
+  background-color: #b8e986;
+  height: 15vh;
+}
+
+.yellow {
+  background-color: yellow;
+  height: 15vh;
+}

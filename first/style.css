@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #ccc;
+  margin: 0;
+  height: 100vh;
+}
+
+.header {
+  background-color: #666;
+  height: 120px;
+  color: black;
+}
+
+.content {
+  background-color: white;
+  width: 80%;
+  margin: 0 auto;
+  min-height: calc(100% - 220px);
+}
+
+.footer {
+  background-color: black;
+  min-height: 100px;
+  color: white;
+  width: 80%;
+  margin: 0 auto;
+}
